@@ -29,7 +29,7 @@ Conta Bancária
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto .
+Você pode visualizar o layout do projeto <a href="https://github.com/luizcripa/luizalabs_dio/blob/main/Tela_principal.png?raw=true">clicando aqui</a>.
 
 ## :memo: Curso
 
